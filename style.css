@@ -1,0 +1,61 @@
+
+body{
+    margin: 0;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+.input-part{
+    background: #6943FF;
+    color: white;
+    margin: 0;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+h1{
+    margin: 0;
+}
+#input{
+    width: 80px;
+    border-radius: 5px;
+    border: 2px solid #B295FF;
+    background-color: #6943FF;
+    padding:20px 20px;
+    margin-top: 20px;
+    font-size: 40px;
+    text-align: center;
+    color: white;
+}
+#input:focus{
+    outline: none;
+    border: 2px solid #B295FF;
+}
+#btn{
+    background-color: white;
+    color: #3D3D3D;
+    border-radius: 5px;
+    padding: 10px 30px;
+    border: none;
+    cursor: pointer;
+    margin: 10px;
+    font-weight: bold;
+    font-size: 16px;
+}
+#btn:hover{
+    background-color: #ffeaea;
+}
+h2{
+    color: #5A537B;
+
+}
+.meters{
+    margin: 20px;
+}
+.leters{
+    margin: 20px;
+}
+.kilos{
+    margin: 20px;
+}
+.output-part{
+    padding-top: 40px;
+}
